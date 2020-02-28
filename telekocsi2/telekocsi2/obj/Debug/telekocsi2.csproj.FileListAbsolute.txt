@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\bin\Debug\telekocsi2.exe.config
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\bin\Debug\telekocsi2.exe
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\bin\Debug\telekocsi2.pdb
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\obj\Debug\telekocsi2.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\obj\Debug\telekocsi2.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\obj\Debug\telekocsi2.exe
+C:\Users\Soma\Documents\C#2\telekocsi2\telekocsi2\obj\Debug\telekocsi2.pdb
